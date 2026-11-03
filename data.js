@@ -1,0 +1,1 @@
+window.HAWREY_DATA = [];
